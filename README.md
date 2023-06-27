@@ -1,49 +1,70 @@
+# Loja de Camisetas e Canecas
 
+Este é um projeto de uma loja online de camisetas e canecas. O objetivo é criar uma aplicação web onde os usuários possam navegar pelo catálogo de produtos, filtrar por categoria, buscar por nome do produto, adicionar produtos ao carrinho de compras e finalizar a compra.
 
-## 🖥️ Installation
+## Protótipo no Figma
+Você pode acessar o protótipo do projeto no [Figma](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449).
 
-### Frontend
+## Funcionalidades
 
-1. Clone this repo
-```bash
-git 
-```
+- Catálogo de produtos com paginação
+- Filtragem de produtos por categoria
+- Busca por nome do produto
+- Adicionar e remover produtos do carrinho
+- Finalizar compra
 
-2. Go to the project folder
-```bash
-cd challenge-frontend
-cd capputeeno
-```
+## Tecnologias Utilizadas
 
-3. Install dependencies
-```bash
-npm install
-```
+- Next.js
+- TypeScript
+- Styled Components
 
-3. Run Frontend
-```bash
-npm run dev
-```
+## Instalação e Execução
 
-### Running the API
+1. Clone o repositório para sua máquina local:
+   ```
+   git clone https://github.com/arthurliberatti/Desafio-Front-Loja
+   ```
 
+2. Navegue até o diretório do projeto:
+   ```
+   cd nome-do-repositorio
+   ```
 
-2. Go to the API folder
+3. Instale as dependências:
+   ```
+   npm install
+   ```
+
+4. Execute a aplicação:
+   ```
+   npm run dev
+   ```
+
+A aplicação estará disponível no endereço [http://localhost:3000](http://localhost:3000).
+
+### Executando a API
+
+1. Acesse a pasta da API
 
 ```bash
 cd challenge-frontend
 cd api
 ```
 
-3. Install dependencies
+2. Instale as dependências
+
 ```bash
 npm install
 ```
 
-3. Run start
+3. Execute o comando start
+
 ```bash
 npm start
 ```
 
+## Observações
 
-
+- O carrinho de compras é gerenciado utilizando o Local Storage do navegador para armazenar os itens selecionados.
+---
