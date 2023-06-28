@@ -1,6 +1,6 @@
 { 
   "scripts": {
-    "init": "cd capputeeno && npm install && npm run dev",
+    "init": "cd capputeeno && npm install && npm run build",
     "api": "cd api && npm install && npm start"
   },
   "dependencies": {
