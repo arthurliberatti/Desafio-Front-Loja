@@ -1,7 +1,18 @@
 # Loja de Camisetas e Canecas
 
 Este é um projeto de uma loja online de camisetas e canecas. O objetivo é criar uma aplicação web onde os usuários possam navegar pelo catálogo de produtos, filtrar por categoria, buscar por nome do produto, adicionar produtos ao carrinho de compras e finalizar a compra.
-![Imagem](https://i.ibb.co/6NCKdLm/imagem.jpg)
+
+![prototype (1)](https://github.com/arthurliberatti/Desafio-Front-Loja/assets/102533916/dfd83a36-a45d-4e03-bcf9-5c1d112a5124)
+
+
+
+
+
+
+
+
+
+
 ## Protótipo no Figma
 Você pode acessar o protótipo do projeto no [Figma](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449).
 
