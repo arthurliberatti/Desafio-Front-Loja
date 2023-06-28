@@ -1,6 +1,6 @@
 { 
   "scripts": {
-    "init": "cd capputeeno && npm install && npm run build && cd ../api && npm install && npm start"
+    "init": "cd capputeeno && npm install && npm run dev && cd ../api && npm install && npm start"
   },
   "dependencies": {
     "@tanstack/react-query": "^4.29.7",
