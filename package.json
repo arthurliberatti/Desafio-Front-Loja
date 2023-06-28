@@ -5,6 +5,7 @@
   "dependencies": {
     "@tanstack/react-query": "^4.29.7",
     "axios": "^1.4.0",
-    "styled-components": "^6.0.0-rc.1"
+    "styled-components": "^6.0.0-rc.1",
+    "next": "13.4.2"
   }
 }
